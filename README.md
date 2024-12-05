@@ -11,7 +11,7 @@ Target Variable: Whether the individual developed heart disease (binary: 0 = No,
 visit Framingham Heart Study([https://www.framinghamheartstudy.org/]) for more details :)
 
 ## Model Overview
-- Model Overview
+
 - Algorithm: Logistic Regression
 - Objective: Classify individuals into two categories (with or without heart disease).
 - Evaluation Metrics:
