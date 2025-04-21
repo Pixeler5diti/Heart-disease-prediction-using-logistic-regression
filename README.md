@@ -1,6 +1,6 @@
 # Heart-disease-prediction-using-logistic-regression
 
-This project is a machine learning model that predicts the risk of heart disease using the Framingham Heart Study Dataset. The model is built with Logistic Regression, a statistical method well-suited for binary classification problems such as predicting the presence or absence of heart disease
+This project is a machine learning model that predicts the risk of heart disease using the Framingham Heart Study Dataset. The model is built with Random Forest, a statistical method well-suited for binary classification problems such as predicting the presence or absence of heart disease
 
 ## Dataset
 The dataset used in this project is from the Framingham Heart Study, a well-known longitudinal study that explores the epidemiology of cardiovascular disease. The dataset includes:
